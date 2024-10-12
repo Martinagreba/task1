@@ -42,9 +42,10 @@ body {
 .d {
     width: 80px;
     height: 20px;
-    background-color: yellow;
+    background-color: white;
     position: fixed;
     bottom: 20px;
     right: 20px;
     text-align: center;
+    border: 1px solid black;
 }
